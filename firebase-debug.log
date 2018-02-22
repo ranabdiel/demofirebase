@@ -1,0 +1,18 @@
+[debug] [2018-02-22T00:08:21.722Z] ----------------------------------------------------------------------
+[debug] [2018-02-22T00:08:21.737Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Usuario\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-02-22T00:08:21.737Z] CLI Version:   3.17.4
+[debug] [2018-02-22T00:08:21.738Z] Platform:      win32
+[debug] [2018-02-22T00:08:21.738Z] Node Version:  v8.9.4
+[debug] [2018-02-22T00:08:21.753Z] Time:          Wed Feb 21 2018 17:08:21 GMT-0700 (Hora estándar Montañas (México))
+[debug] [2018-02-22T00:08:21.753Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-22T00:08:21.820Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-22T00:08:21.827Z] > authorizing via signed-in user
+[debug] [2018-02-22T00:08:21.835Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/ram-fb  
+  
+ Wed Feb 21 2018 17:08:21 GMT-0700 (Hora estándar Montañas (México))
+[debug] [2018-02-22T00:08:22.634Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-22T00:08:22.637Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/ram-fb/tokens  
+  
+ Wed Feb 21 2018 17:08:22 GMT-0700 (Hora estándar Montañas (México))
+[debug] [2018-02-22T00:08:23.442Z] <<< HTTP RESPONSE 200
